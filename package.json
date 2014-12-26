@@ -16,5 +16,8 @@
     "grunt-karma": "*",
     "karma-safari-launcher": "~0.1.1",
     "karma-firefox-launcher": "^0.1.3"
-  }
+  },
+  "keywords": [
+    "flatten"
+  ]
 }
