@@ -1,5 +1,6 @@
 {
   "name": "polymergestures",
+  "version": "0.0.1",
   "main": "Gruntfile.js",
   "devDependencies": {
     "mocha": "*",
